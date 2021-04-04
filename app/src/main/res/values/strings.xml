@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sync Dark</string>
+    <string name="hello_dark_theme">Olá Tema Escuro</string>
+    <string name="change_theme">Mudar Tema</string>
+    <string name="theme_dialog_title">Tema</string>
+    <string name="theme_day">Claro</string>
+    <string name="theme_dark">Escuro</string>
+    <string name="theme_system">Padrão do Sistema</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="hello_day_theme">Olá tema claro</string>
+</resources>
